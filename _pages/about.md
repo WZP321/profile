@@ -45,11 +45,17 @@ IEEE European Symposium on Security and Privacy 2024. <br />
 IEEE Transactions on Artificial Intelligence 2024. <br /> 
 <sup>*</sup> indicates equal contribution.
 
-
+- <span style="color:dark">\[TBD 2024\]</span> [zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10535217)<br />
+ **Zhipeng Wang**, Nanqing Dong, Jiahao Sun, William Knottenbelt, Yike Guo. <br />
+IEEE Transactions on Big Data 2024. <br /> 
 
 - <span style="color:dark">\[WWW 2023\]</span> [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy.](https://arxiv.org/pdf/2201.09035.pdf)\
 **Zhipeng Wang**, Stefanos Chaliasos, Kaihua Qin, Liyi Zhou, Lifeng Gao, Pascal Berrang, Ben Livshits, Arthur Gervais.\
 The 2023 ACM Web Conference 2023. 
+
+- <span style="color:dark">\[AFT 2023\]</span> [Pay Less for Your Privacy: Towards Cost-Effective On-Chain Mixers.](https://eprint.iacr.org/2023/1222.pdf)\
+**Zhipeng Wang**, Marko Cirkovic, Duc V. Le, William Knottenbelt, Christian Cachin.\
+The International Conference on Advances in Financial Technologies 2023.
 
 - <span style="color:dark">\[S&P 2023\]</span> [SoK: Decentralized Finance (DeFi) Attacks.](https://arxiv.org/pdf/2208.13035.pdf)<br />
 Liyi Zhou, Xihan Xiong, Jens Ernstberger, Stefanos Chaliasos, **Zhipeng Wang**, Ye Wang, Kaihua Qin, Roger Wattenhofer, Dawn Song, Arthur Gervais.<br />
@@ -66,7 +72,7 @@ Nanqing Dong<sup>*</sup>, Jiahao Sun<sup>*</sup>, **Zhipeng Wang**<sup>*</sup>, 
 NeurIPS 2022 Workshops on Decentralization and Trustworthy Machine Learning in Web3: Methodologies, Platforms, and Applications. [Runner-up Award.](https://ai-secure.github.io/DMLW2022/papers)<br />
 <sup>*</sup>Authors are arranged in alphabetical order. -->
 
-- <span style="color:darkgray">\[ProvSec 2019\]</span> [A Practical Lattice-Based Sequential Aggregate Signature.](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_6)<br />**Zhipeng Wang**, Qianhong Wu.<br />
+- <span style="color:darkg">\[ProvSec 2019\]</span> [A Practical Lattice-Based Sequential Aggregate Signature.](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_6)<br />**Zhipeng Wang**, Qianhong Wu.<br />
 International Conference on Provable Security 2019.
 
 
