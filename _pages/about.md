@@ -59,6 +59,12 @@ IEEE Transactions on Artificial Intelligence 2024. <br />
  **Zhipeng Wang**, <a href="https://eveningdong.github.io/" style="color:black">Nanqing Dong</a>, <a href="https://scholar.google.com/citations?user=I3Sx4boAAAAJ&hl=en" style="color:black">Jiahao Sun</a>, <a href="https://www.doc.ic.ac.uk/~wjk/" style="color:black">William Knottenbelt</a>, <a href="https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo" style="color:black">Yike Guo</a>. <br />
 IEEE Transactions on Big Data 2024. <br /> 
 
+
+- <span style="color:dark">\[<b>ICBC 2024</b>\]</span> [Exploring the Market Dynamics of Liquid Staking Derivatives (LSDs).](https://arxiv.org/pdf/2402.17748.pdf)<br />
+ <a href="https://scholar.google.ch/citations?user=WyUiJf0AAAAJ&hl=en&oi=ao" style="color:black">Xihan Xiong</a>, **Zhipeng Wang**, <a href="https://qinwang.tech/" style="color:black">Qin Wang</a>. <br />
+IEEE International Conference on Blockchain and Cryptocurrency 2024. Best Paper Award Candidate, [4](https://icbc2024.ieee-icbc.org/program/best-paper-and-runner) out of [249](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10634388). <br /> 
+
+
 - <span style="color:dark">\[<b>WWW 2023</b>\]</span> [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy.](https://arxiv.org/pdf/2201.09035.pdf)\
 **Zhipeng Wang**, <a href="https://chaliasos.com/" style="color:black">Stefanos Chaliasos</a>, <a href="https://qin.ac/" style="color:black">Kaihua Qin</a>,  <a href="https://lzhou1110.github.io/" style="color:black">Liyi Zhou</a>, Lifeng Gao, <a href="https://pascal-berrang.de/" style="color:black">Pascal Berrang</a>, <a href="https://www.doc.ic.ac.uk/~livshits/" style="color:black">Ben Livshits</a>, <a href="https://scholar.google.ch/citations?user=jLr_xi4AAAAJ&hl=en" style="color:black">Arthur Gervais</a>.\
 The 2023 ACM Web Conference 2023. 
