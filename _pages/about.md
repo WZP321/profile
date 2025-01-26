@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,9 +32,7 @@ Accepted at The 34th USENIX Security Symposium. To Appear. <br />
 
 - <span style="color:dark">\[<b>CT-RSA 2025</b>\]</span> [DSKE: Digital Signatures with Key Extraction.](https://eprint.iacr.org/2022/1753.pdf)<br />
 **Zhipeng Wang**, 
-<a href="https://orestisalpos.github.io/" style="color:black">Orestis Alpos</a>,  
-<a href="https://www.linkedin.com/in/alireza-kavousi/?originalSubdomain=uk" style="color:black">Alireza Kavousi</a>, 
-<a href="https://scholar.google.com/citations?user=L3zP4p0AAAAJ&hl=en" style="color:black">Harry W. H. Wong</a>, 
+<a href="https://orestisalpos.github.io/" style="color:black">Orestis Alpos</a>, <a href="https://www.linkedin.com/in/alireza-kavousi/?originalSubdomain=uk" style="color:black">Alireza Kavousi</a>,  <a href="https://scholar.google.com/citations?user=L3zP4p0AAAAJ&hl=en" style="color:black">Harry W. H. Wong</a>, 
 <a href="https://szeyiuchau.github.io/" style="color:black">Sze Yiu Chau</a>,  
 <a href="https://levduc.github.io/" style="color:black">Duc V. Le</a>, 
 <a href="https://crypto.unibe.ch/cc/" style="color:black">Christian Cachin</a>.<br /> 
