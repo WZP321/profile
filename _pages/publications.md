@@ -64,7 +64,7 @@ Accepted at The 2025 ACM Web Conference Short Paper Track. <br />
 - <span style="color:dark">\[<b>TAI 2024</b>\]</span> [Defending Against Poisoning Attacks in Federated Learning with Blockchain.](https://www.computer.org/csdl/journal/ai/2024/07/10471193/1VpY6lFFWko)<br />
  <a href="https://eveningdong.github.io/" style="color:black">Nanqing Dong</a><sup>*</sup>, **Zhipeng Wang**<sup>*</sup>, <a href="https://scholar.google.com/citations?user=I3Sx4boAAAAJ&hl=en" style="color:black">Jiahao Sun</a>, <a href="https://sites.google.com/view/michaelkampffmeyer" style="color:black">Michael Kampffmeyer</a>, <a href="https://www.doc.ic.ac.uk/~wjk/" style="color:black">William Knottenbelt</a>, <a href="https://www.cs.cmu.edu/~epxing/" style="color:black">Eric Xing</a>. <br />
 IEEE Transactions on Artificial Intelligence 2024. <br /> 
-<sup>*</sup> indicates equal contribution.
+<sup>*</sup> denotes equal contribution.
 
 - <span style="color:dark">\[<b>TBD 2024</b>\]</span> [zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10535217)<br />
  **Zhipeng Wang**, <a href="https://eveningdong.github.io/" style="color:black">Nanqing Dong</a>, <a href="https://scholar.google.com/citations?user=I3Sx4boAAAAJ&hl=en" style="color:black">Jiahao Sun</a>, <a href="https://www.doc.ic.ac.uk/~wjk/" style="color:black">William Knottenbelt</a>, <a href="https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo" style="color:black">Yike Guo</a>. <br />
