@@ -24,39 +24,38 @@ Selected Publications
 =======
 Full publication list can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ughaML4AAAAJ&view_op=list_works&sortby=pubdate).
 
-<sup>*</sup> $equal~contribution$.
-
-- <span style="color:black">\[CT-RSA 2025\]</span> [DSKE: Digital Signatures with Key Extraction.](https://eprint.iacr.org/2022/1753.pdf)<br />
+- <span style="color:dark">\[CT-RSA 2025\]</span> [DSKE: Digital Signatures with Key Extraction.](https://eprint.iacr.org/2022/1753.pdf)<br />
 **Zhipeng Wang**, Orestis Alpos,  Alireza Kavousi, Harry W. H. Wong, Sze Yiu Chau, Duc V. Le, Christian Cachin.<br /> 
 Accepted at The Cryptographers' Track at RSA Conference 2025. <br /> 
 
-- <span style="color:black">\[WWW 2025 (Short Paper)\]</span> [AIArena: A Blockchain-Based Decentralized AI Training Platform.](https://arxiv.org/pdf/2412.14566)<br />
+- <span style="color:dark">\[WWW 2025 (Short Paper)\]</span> [AIArena: A Blockchain-Based Decentralized AI Training Platform.](https://arxiv.org/pdf/2412.14566)<br />
 **Zhipeng Wang**, Rui Sun, Elizabeth Lui, Tuo Zhou, Yizhe Wen, Jiahao Sun.<br /> 
 Accepted at The 2025 ACM Web Conference Short Paper Track. <br /> 
 
-- <span style="color:black">\[FC 2024\]</span> [A Transaction-Level Model for Blockchain Privacy.](https://eprint.iacr.org/2023/1902.pdf)<br />
+- <span style="color:dark">\[FC 2024\]</span> [A Transaction-Level Model for Blockchain Privacy.](https://eprint.iacr.org/2023/1902.pdf)<br />
 François-Xavier Wicht, **Zhipeng Wang**, Duc V. Le, Christian Cachin.<br /> 
 Financial Cryptography and Data Security 2024. <br /> 
 
-- <span style="color:black">\[Euro S&P 2024\]</span> [SoK: Public Randomness.](https://eprint.iacr.org/2023/1121.pdf)<br />
+- <span style="color:dark">\[Euro S&P 2024\]</span> [SoK: Public Randomness.](https://eprint.iacr.org/2023/1121.pdf)<br />
 Alireza Kavousi, **Zhipeng Wang**, Philipp Jovanovic.<br /> 
 IEEE European Symposium on Security and Privacy 2024. <br /> 
 
-- <span style="color:black">\[TAI 2024\]</span> [Defending Against Poisoning Attacks in Federated Learning with Blockchain.](https://www.computer.org/csdl/journal/ai/2024/07/10471193/1VpY6lFFWko)<br />
+- <span style="color:dark">\[TAI 2024\]</span> [Defending Against Poisoning Attacks in Federated Learning with Blockchain.](https://www.computer.org/csdl/journal/ai/2024/07/10471193/1VpY6lFFWko)<br />
  Nanqing Dong<sup>*</sup>, **Zhipeng Wang**<sup>*</sup>, Jiahao Sun, Michael Kampffmeyer, William Knottenbelt, Eric Xing. <br />
 IEEE Transactions on Artificial Intelligence 2024. <br /> 
+<sup>*</sup> indicates equal contribution.
 
 
 
-- <span style="color:black">\[WWW 2023\]</span> [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy.](https://arxiv.org/pdf/2201.09035.pdf)\
+- <span style="color:dark">\[WWW 2023\]</span> [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy.](https://arxiv.org/pdf/2201.09035.pdf)\
 **Zhipeng Wang**, Stefanos Chaliasos, Kaihua Qin, Liyi Zhou, Lifeng Gao, Pascal Berrang, Ben Livshits, Arthur Gervais.\
 The 2023 ACM Web Conference 2023. 
 
-- <span style="color:black">\[S&P 2023\]</span> [SoK: Decentralized Finance (DeFi) Attacks.](https://arxiv.org/pdf/2208.13035.pdf)<br />
+- <span style="color:dark">\[S&P 2023\]</span> [SoK: Decentralized Finance (DeFi) Attacks.](https://arxiv.org/pdf/2208.13035.pdf)<br />
 Liyi Zhou, Xihan Xiong, Jens Ernstberger, Stefanos Chaliasos, **Zhipeng Wang**, Ye Wang, Kaihua Qin, Roger Wattenhofer, Dawn Song, Arthur Gervais.<br />
 The 44th IEEE Symposium on Security and Privacy.
 
-- <span style="color:black">\[FC 2022\]</span> [Speculative Multipliers on DeFi: Quantifying On-Chain Leverage Risks.](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_3)<br />
+- <span style="color:dark">\[FC 2022\]</span> [Speculative Multipliers on DeFi: Quantifying On-Chain Leverage Risks.](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_3)<br />
 **Zhipeng Wang**, Kaihua Qin, Duc Vu Minh, and Arthur Gervais.<br />
 Financial Cryptography and Data Security 2022.
 
