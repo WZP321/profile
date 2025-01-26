@@ -26,7 +26,7 @@ Full publication list can be found at [Google Scholar](https://scholar.google.co
 
 
 - <span style="color:dark">\[<b>USENIX Security 2025</b>\]</span> TockOwl: Asynchronous Consensus with Fault and Network Adaptability.<br />
-Minghang Li, Qianhong Wu, **Zhipeng Wang**, Bo Qin, Bohang Wei, Hang Ruan, Shihong Xiong, Zhenyang Ding. <br /> 
+Minghang Li, <a href="https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ" style="color:black">Qianhong Wu</a>, **Zhipeng Wang**, Bo Qin, Bohang Wei, Hang Ruan, Shihong Xiong, Zhenyang Ding. <br /> 
 Accepted at The 34th USENIX Security Symposium. To Appear. <br /> 
 
 
@@ -72,13 +72,12 @@ The 44th IEEE Symposium on Security and Privacy.
 Financial Cryptography and Data Security 2022.
 
 
+- <span style="color:dark">\[<b>ProvSec 2019</b>\]</span> [A Practical Lattice-Based Sequential Aggregate Signature.](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_6)<br />**Zhipeng Wang**, Qianhong Wu.<br />
+International Conference on Provable Security 2019.
+
 
 <!-- - <span style="color:darkgray">\[NeurIPS DMLW'22\]</span> [FLock: Defending Malicious Behaviors in Federated Learning with Blockchain.](https://arxiv.org/pdf/2211.04344.pdf)<br /> 
 Nanqing Dong<sup>*</sup>, Jiahao Sun<sup>*</sup>, **Zhipeng Wang**<sup>*</sup>, Shuoying Zhang<sup>*</sup>, and Shuhao Zheng<sup>*</sup>.<br /> 
 NeurIPS 2022 Workshops on Decentralization and Trustworthy Machine Learning in Web3: Methodologies, Platforms, and Applications. [Runner-up Award.](https://ai-secure.github.io/DMLW2022/papers)<br />
 <sup>*</sup>Authors are arranged in alphabetical order. -->
-
-- <span style="color:dark">\[<b>ProvSec 2019</b>\]</span> [A Practical Lattice-Based Sequential Aggregate Signature.](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_6)<br />**Zhipeng Wang**, Qianhong Wu.<br />
-International Conference on Provable Security 2019.
-
 
