@@ -7,8 +7,8 @@ author_profile: true
 
 Full publication list can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ughaML4AAAAJ&view_op=list_works&sortby=pubdate).
 
-### Blockchain 
-
+Blockchain 
+======
 - <span style="color:dark">\[<b>USENIX Security 2025</b>\]</span> TockOwl: Asynchronous Consensus with Fault and Network Adaptability.<br />
 Minghang Li, <a href="https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ" style="color:black">Qianhong Wu</a>, **Zhipeng Wang**, <a href="https://scholar.google.com/citations?hl=en&user=Dww7dnsAAAAJ" style="color:black">Bo Qin</a>, Bohang Wei, Hang Ruan, Shihong Xiong, Zhenyang Ding. <br /> 
 Accepted at The 34th USENIX Security Symposium. To Appear. <br /> 
@@ -44,7 +44,8 @@ The 44th IEEE Symposium on Security and Privacy.
 Financial Cryptography and Data Security 2022.
 
 
-### Cryptography
+Cryptography
+======
 - <span style="color:dark">\[<b>CT-RSA 2025</b>\]</span> [DSKE: Digital Signatures with Key Extraction.](https://eprint.iacr.org/2022/1753.pdf)<br />
 **Zhipeng Wang**, 
 <a href="https://orestisalpos.github.io/" style="color:black">Orestis Alpos</a>, <a href="https://www.linkedin.com/in/alireza-kavousi/?originalSubdomain=uk" style="color:black">Alireza Kavousi</a>,  <a href="https://scholar.google.com/citations?user=L3zP4p0AAAAJ&hl=en" style="color:black">Harry W. H. Wong</a>, <a href="https://szeyiuchau.github.io/" style="color:black">Sze Yiu Chau</a>, <a href="https://levduc.github.io/" style="color:black">Duc V. Le</a>,  <a href="https://crypto.unibe.ch/cc/" style="color:black">Christian Cachin</a>.<br /> 
@@ -54,7 +55,8 @@ Accepted at The Cryptographers' Track at RSA Conference 2025. <br />
 International Conference on Provable Security 2019.
 
 
-### Decentralized AI
+Decentralized AI
+======
 - <span style="color:dark">\[<b>WWW 2025 (Short Paper)</b>\]</span> [AIArena: A Blockchain-Based Decentralized AI Training Platform.](https://arxiv.org/pdf/2412.14566)<br />
 **Zhipeng Wang**, <a href="https://rui-sun.com/" style="color:black">Rui Sun</a>, Elizabeth Lui, 
 <a href="https://www.hkubs.hku.hk/people/tuo-zhou/" style="color:black">Tuo Zhou</a>, Yizhe Wen, 
