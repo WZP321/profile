@@ -21,7 +21,7 @@ Education
 
 Academic Work Experience
 ======
-* Research Associate, Imperial College London, May 2024 – Now
+* Postdoctoral Research Associate, Imperial College London, May 2024 – Now
 
 * Research Assistant, Imperial College London, Dec 2023 – Apr 2024
 
