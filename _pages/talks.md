@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Academic Talks
+* **Migration to Post-Quantum Secure Blockchains** [link](https://ritics.org/event/ritics-showcase-2025/) 
+  + RITICS Showcase 2025  
+    London, UK, 28/01/2025
+
 * **How Can Blockchain Make AI More Decentralized?** [link](https://www.exp.science/media/dlt-seminar-series-when-blockchain-meets-ai) 
   + UCL Distributed Ledger Technologies Seminar  
     London, UK, 14/11/2024
