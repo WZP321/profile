@@ -26,19 +26,19 @@ author_profile: true
 * **On the Usage, Privacy, and Censorship of On-chain Mixers**
   + University of Birmingham  
     Birmingham, UK, 01/08/2023
-  + Brevan Howard Centre for Financial Analysis Annual Crypto Showcasing Event
+  + Brevan Howard Centre for Financial Analysis Annual Crypto Showcasing Event  
     London, UK, 22/06/2023
-  + Brevan Howard Centre for Financial Analysis Imperial Scholars Event
+  + Brevan Howard Centre for Financial Analysis Imperial Scholars Event  
     London, UK, 22/02/2023
 
 
 * **On How ZKP Blockchain Mixers Improve, and Worsen User Privacy** [link](https://www2023.thewebconf.org/program/detailed-program/) 
-  + The 2023 ACM Web Conference (WWW 2023)
+  + The 2023 ACM Web Conference (WWW 2023)  
     Austin, USA, 04/05/2023
 
 
 * **Speculative Multipliers on DeFi: Quantifying On-Chain Leverage Risks** [link](https://fc22.ifca.ai/program.html) 
-  + Financial Cryptography and Data Security 2022 (FC 2022)
+  + Financial Cryptography and Data Security 2022 (FC 2022)  
     Grenada, 02/05/2022
 
 
