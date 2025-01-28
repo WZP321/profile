@@ -43,7 +43,7 @@ author_profile: true
 
 
 * **A Practical Lattice-Based Sequential Aggregate Signature** [link](https://www.monash.edu/provsec2019) 
-  + The International Conference On Provable And Practical Security 2019 (ProvSec 2019)
+  + The International Conference On Provable And Practical Security 2019 (ProvSec 2019)  
     Cairns, Australia, 03/10/2019
 
 
