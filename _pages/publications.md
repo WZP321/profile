@@ -9,7 +9,7 @@ Full publication list can be found at [Google Scholar](https://scholar.google.co
 
 Blockchain 
 ======
-- <span style="color:dark">\[<b>USENIX Security 2025</b>\]</span> TockOwl: Asynchronous Consensus with Fault and Network Adaptability.<br />
+- <span style="color:dark">\[<b>USENIX Security 2025</b>\]</span> [TockOwl: Asynchronous Consensus with Fault and Network Adaptability.](https://eprint.iacr.org/2025/134.pdf)<br />
 Minghang Li, <a href="https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ" style="color:black">Qianhong Wu</a>, **Zhipeng Wang**, <a href="https://scholar.google.com/citations?hl=en&user=Dww7dnsAAAAJ" style="color:black">Bo Qin</a>, Bohang Wei, Hang Ruan, Shihong Xiong, Zhenyang Ding. <br /> 
 Accepted at The 34th USENIX Security Symposium. To Appear. <br /> 
 
