@@ -73,6 +73,6 @@ IEEE Transactions on Artificial Intelligence 2024. <br />
 IEEE Transactions on Big Data 2024. <br /> 
 
 - <span style="color:dark">\[<b>Preprint</b>\]</span> [SoK: Decentralized AI (DeAI).](https://arxiv.org/pdf/2411.17461)<br />
- **Zhipeng Wang**,<a href="https://rui-sun.com/" style="color:black">Rui Sun</a>, Elizabeth Lui, Vatsal Shah, <a href="https://scholar.google.ch/citations?user=WyUiJf0AAAAJ&hl=en&oi=ao" style="color:black">Xihan Xiong</a>, <a href="https://scholar.google.com/citations?user=I3Sx4boAAAAJ&hl=en" style="color:black">Jiahao Sun</a>, <a href=" https://scholar.google.com/citations?user=e3kBCGwAAAAJ&hl=en" style="color:black">Davide Crapis</a>, <a href="https://www.doc.ic.ac.uk/~wjk/" style="color:black">William Knottenbelt</a>. <br />
+ **Zhipeng Wang**, <a href="https://rui-sun.com/" style="color:black">Rui Sun</a>, Elizabeth Lui, Vatsal Shah, <a href="https://scholar.google.ch/citations?user=WyUiJf0AAAAJ&hl=en&oi=ao" style="color:black">Xihan Xiong</a>, <a href="https://scholar.google.com/citations?user=I3Sx4boAAAAJ&hl=en" style="color:black">Jiahao Sun</a>, <a href=" https://scholar.google.com/citations?user=e3kBCGwAAAAJ&hl=en" style="color:black">Davide Crapis</a>, <a href="https://www.doc.ic.ac.uk/~wjk/" style="color:black">William Knottenbelt</a>. <br />
 Preprint. <br /> 
 
