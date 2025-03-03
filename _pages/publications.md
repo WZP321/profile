@@ -17,9 +17,6 @@ Accepted at The 34th USENIX Security Symposium. <br />
 <a href="https://crypto.unibe.ch/fxw/" style="color:black">François-Xavier Wicht</a>, **Zhipeng Wang**, <a href="https://levduc.github.io/" style="color:black">Duc V. Le</a>, <a href="https://crypto.unibe.ch/cc/" style="color:black">Christian Cachin</a>.<br /> 
 Financial Cryptography and Data Security 2024. <br /> 
 
-- <span style="color:dark">\[<b>Euro S&P 2024</b>\]</span> [SoK: Public Randomness.](https://eprint.iacr.org/2023/1121.pdf)<br />
-<a href="https://www.linkedin.com/in/alireza-kavousi/?originalSubdomain=uk" style="color:black">Alireza Kavousi</a>, **Zhipeng Wang**, <a href="https://profiles.ucl.ac.uk/75518-philipp-jovanovic" style="color:black">Philipp Jovanovic</a>.<br /> 
-IEEE European Symposium on Security and Privacy 2024. <br /> 
 
 - <span style="color:dark">\[<b>ICBC 2024</b>\]</span> [Exploring the Market Dynamics of Liquid Staking Derivatives (LSDs).](https://arxiv.org/pdf/2402.17748.pdf)<br />
  <a href="https://scholar.google.ch/citations?user=WyUiJf0AAAAJ&hl=en&oi=ao" style="color:black">Xihan Xiong</a>, **Zhipeng Wang**, <a href="https://qinwang.tech/" style="color:black">Qin Wang</a>. <br />
@@ -50,6 +47,10 @@ Cryptography
 **Zhipeng Wang**, 
 <a href="https://orestisalpos.github.io/" style="color:black">Orestis Alpos</a>, <a href="https://www.linkedin.com/in/alireza-kavousi/?originalSubdomain=uk" style="color:black">Alireza Kavousi</a>,  <a href="https://scholar.google.com/citations?user=L3zP4p0AAAAJ&hl=en" style="color:black">Harry W. H. Wong</a>, <a href="https://szeyiuchau.github.io/" style="color:black">Sze Yiu Chau</a>, <a href="https://levduc.github.io/" style="color:black">Duc V. Le</a>,  <a href="https://crypto.unibe.ch/cc/" style="color:black">Christian Cachin</a>.<br /> 
 Accepted at The Cryptographers' Track at RSA Conference 2025. <br /> 
+
+- <span style="color:dark">\[<b>Euro S&P 2024</b>\]</span> [SoK: Public Randomness.](https://eprint.iacr.org/2023/1121.pdf)<br />
+<a href="https://www.linkedin.com/in/alireza-kavousi/?originalSubdomain=uk" style="color:black">Alireza Kavousi</a>, **Zhipeng Wang**, <a href="https://profiles.ucl.ac.uk/75518-philipp-jovanovic" style="color:black">Philipp Jovanovic</a>.<br /> 
+IEEE European Symposium on Security and Privacy 2024. <br /> 
 
 - <span style="color:dark">\[<b>ProvSec 2019</b>\]</span> [A Practical Lattice-Based Sequential Aggregate Signature.](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_6)<br />**Zhipeng Wang**, <a href="https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ" style="color:black">Qianhong Wu</a>.<br />
 International Conference on Provable Security 2019.

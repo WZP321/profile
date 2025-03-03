@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Prior to this, I earned my PhD at [Imperial College London](https://www.imperial.ac.uk/), supervised by [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Previously, I obtained my Master’s degree, advised by [Prof. Qianhong Wu](https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ), and my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn/).
 
+I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with  [Prof. William Knottenbelt](https://www.doc.ic.ac.uk/~wjk/) and [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/). I completed my PhD at [Imperial College London](https://www.imperial.ac.uk/). Previously, I obtained my Master’s degree and my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn/).
+
+
+<!-- I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/) and [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Prior to this, I earned my PhD at [Imperial College London](https://www.imperial.ac.uk/), supervised by [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Previously, I obtained my Master’s degree, advised by [Prof. Qianhong Wu](https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ), and my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn/). -->
 
 
 My research interests encompass privacy and security challenges in computer systems, with a particular focus on cryptography, blockchain, and their practical applications. Currently, I am exploring the following topics:
@@ -20,7 +23,7 @@ My research interests encompass privacy and security challenges in computer syst
 <!-- Please feel free to reach out to me at <u>zhipeng.wang20[at]imperial.ac.uk</u> if you are interested in my research or would like to know more about my detailed CV. -->
 
 
-Selected Publications
+Recent Publications
 =======
 Full publication list can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=ughaML4AAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -41,7 +44,7 @@ Accepted at The Cryptographers' Track at RSA Conference 2025. <br />
 <a href="https://scholar.google.com/citations?user=I3Sx4boAAAAJ&hl=en" style="color:black">Jiahao Sun</a>.<br /> 
 Accepted at The 2025 ACM Web Conference Short Paper Track. <br /> 
 
-- <span style="color:dark">\[<b>FC 2024</b>\]</span> [A Transaction-Level Model for Blockchain Privacy.](https://eprint.iacr.org/2023/1902.pdf)<br />
+<!-- - <span style="color:dark">\[<b>FC 2024</b>\]</span> [A Transaction-Level Model for Blockchain Privacy.](https://eprint.iacr.org/2023/1902.pdf)<br />
 <a href="https://crypto.unibe.ch/fxw/" style="color:black">François-Xavier Wicht</a>, **Zhipeng Wang**, <a href="https://levduc.github.io/" style="color:black">Duc V. Le</a>, <a href="https://crypto.unibe.ch/cc/" style="color:black">Christian Cachin</a>.<br /> 
 Financial Cryptography and Data Security 2024. <br /> 
 
@@ -84,7 +87,7 @@ Financial Cryptography and Data Security 2022.
 
 
 - <span style="color:dark">\[<b>ProvSec 2019</b>\]</span> [A Practical Lattice-Based Sequential Aggregate Signature.](https://link.springer.com/chapter/10.1007/978-3-030-31919-9_6)<br />**Zhipeng Wang**, <a href="https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ" style="color:black">Qianhong Wu</a>.<br />
-International Conference on Provable Security 2019.
+International Conference on Provable Security 2019. -->
 
 
 <!-- - <span style="color:darkgray">\[NeurIPS DMLW'22\]</span> [FLock: Defending Malicious Behaviors in Federated Learning with Blockchain.](https://arxiv.org/pdf/2211.04344.pdf)<br /> 
