@@ -98,5 +98,5 @@ International Conference on Provable Security 2019. -->
 <!-- - <span style="color:darkgray">\[NeurIPS DMLW'22\]</span> [FLock: Defending Malicious Behaviors in Federated Learning with Blockchain.](https://arxiv.org/pdf/2211.04344.pdf)<br /> 
 Nanqing Dong<sup>*</sup>, Jiahao Sun<sup>*</sup>, **Zhipeng Wang**<sup>*</sup>, Shuoying Zhang<sup>*</sup>, and Shuhao Zheng<sup>*</sup>.<br /> 
 NeurIPS 2022 Workshops on Decentralization and Trustworthy Machine Learning in Web3: Methodologies, Platforms, and Applications. [Runner-up Award.](https://ai-secure.github.io/DMLW2022/papers)<br />
-<sup>*</sup>Authors are arranged in alphabetical order.
+<sup>*</sup>Authors are arranged in alphabetical order.  --> 
 
