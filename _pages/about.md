@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with  [Prof. William Knottenbelt](https://www.doc.ic.ac.uk/~wjk/) and [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/). I completed my PhD at [Imperial College London](https://www.imperial.ac.uk/). Previously, I obtained my Master’s degree and my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn/).
+I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with  [Prof. William Knottenbelt](https://www.doc.ic.ac.uk/~wjk/) and [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/). I completed my PhD at [Imperial College London](https://www.imperial.ac.uk/). Previously, I obtained both my Master’s and Bachelor’s degrees from [Beihang University](https://ev.buaa.edu.cn/).
 
 
 <!-- I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/) and [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Prior to this, I earned my PhD at [Imperial College London](https://www.imperial.ac.uk/), supervised by [Prof. William J. Knottenbelt](https://www.doc.ic.ac.uk/~wjk/). Previously, I obtained my Master’s degree, advised by [Prof. Qianhong Wu](https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ), and my Bachelor’s degree from [Beihang University](https://ev.buaa.edu.cn/). -->
