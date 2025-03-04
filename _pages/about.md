@@ -38,7 +38,7 @@ Full publication list can be found at [Google Scholar](https://scholar.google.co
 <!-- <a href="https://orestisalpos.github.io/" style="color:black">Orestis Alpos</a>, <a href="https://www.linkedin.com/in/alireza-kavousi/?originalSubdomain=uk" style="color:black">Alireza Kavousi</a>,  <a href="https://scholar.google.com/citations?user=L3zP4p0AAAAJ&hl=en" style="color:black">Harry W. H. Wong</a>, <a href="https://szeyiuchau.github.io/" style="color:black">Sze Yiu Chau</a>, <a href="https://levduc.github.io/" style="color:black">Duc V. Le</a>,  <a href="https://crypto.unibe.ch/cc/" style="color:black">Christian Cachin</a>.<br />  -->
 <!-- Accepted at The Cryptographers' Track at RSA Conference 2025. <br />  -->
 
-- <span style="color:dark">\[<b>WWW 2025 (Short Paper)</b>\]</span> [AIArena: A Blockchain-Based Decentralized AI Training Platform.](https://arxiv.org/pdf/2412.14566)<br />
+<!-- - <span style="color:dark">\[<b>WWW 2025 (Short Paper)</b>\]</span> [AIArena: A Blockchain-Based Decentralized AI Training Platform.](https://arxiv.org/pdf/2412.14566)<br /> -->
 <!-- **Zhipeng Wang**, <a href="https://rui-sun.com/" style="color:black">Rui Sun</a>, Elizabeth Lui, 
 <a href="https://www.hkubs.hku.hk/people/tuo-zhou/" style="color:black">Tuo Zhou</a>, Yizhe Wen, 
 <a href="https://scholar.google.com/citations?user=I3Sx4boAAAAJ&hl=en" style="color:black">Jiahao Sun</a>.<br /> 
