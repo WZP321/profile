@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span style="color:red">This page is no longer being updated. For the latest information, please visit [https://zhipengwang.io/](https://zhipengwang.io/).</span>
 
 I am a Postdoctoral Research Associate in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working with  [Prof. William Knottenbelt](https://www.doc.ic.ac.uk/~wjk/) and [Prof. Cong Ling](https://www.commsp.ee.ic.ac.uk/~cling/). I completed my PhD at [Imperial College London](https://www.imperial.ac.uk/). Previously, I obtained both my Master’s and Bachelor’s degrees from [Beihang University](https://ev.buaa.edu.cn/).
 

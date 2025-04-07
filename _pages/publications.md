@@ -13,6 +13,7 @@ Blockchain
 Minghang Li, <a href="https://scholar.google.com/citations?hl=en&user=eEzaPPYAAAAJ" style="color:black">Qianhong Wu</a>, **Zhipeng Wang**, <a href="https://scholar.google.com/citations?hl=en&user=Dww7dnsAAAAJ" style="color:black">Bo Qin</a>, Bohang Wei, Hang Ruan, Shihong Xiong, Zhenyang Ding. <br /> 
 Accepted at The 34th USENIX Security Symposium. <br /> 
 
+
 - <span style="color:dark">\[<b>FC 2024</b>\]</span> [A Transaction-Level Model for Blockchain Privacy.](https://eprint.iacr.org/2023/1902.pdf)<br />
 <a href="https://crypto.unibe.ch/fxw/" style="color:black">François-Xavier Wicht</a>, **Zhipeng Wang**, <a href="https://levduc.github.io/" style="color:black">Duc V. Le</a>, <a href="https://crypto.unibe.ch/cc/" style="color:black">Christian Cachin</a>.<br /> 
 Financial Cryptography and Data Security 2024. <br /> 
