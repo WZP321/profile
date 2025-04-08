@@ -16,7 +16,7 @@ Education
 
 * B.Sc. in Information and Computational Science, Beihang University, Sep 2013 – Jun 2017
 
-* B.Sc. Exchange Student, CentraleSupélec, Jun 2016 – Jan 2017
+* B.Sc. Exchange Student, CentraleSupélec, Sep 2016 – Jan 2017
 
 
 Academic Work Experience
