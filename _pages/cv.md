@@ -12,11 +12,11 @@ Education
 ======
 * Ph.D in Computing, Imperial College London, Oct 2020 – Mar 2024
 
-* M.Sc. in System Engineering, Beihang University, 2017 – 2020
+* M.Sc. in System Engineering, Beihang University, Sep 2017 – Jun 2020
 
-* B.Sc. in Information and Computational Science, Beihang University, 2013 – 2017
+* B.Sc. in Information and Computational Science, Beihang University, Sep 2013 – Jun 2017
 
-* B.Sc. Exchange Student, CentraleSupélec, 2016 – 2017
+* B.Sc. Exchange Student, CentraleSupélec, Jun 2016 – Jan 2017
 
 
 Academic Work Experience
